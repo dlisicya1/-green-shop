@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+    background-color: #1a1919;
+    color: aliceblue;
+    margin: 0;
+    }
+
+    
+
+.first{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    align-items: center;
+
+}
+.first p{
+    width: 450px;
+    padding:20px;
+    font-size: 18px;
+}
+main{
+    margin: 30px;
+}
+nav a{
+    text-decoration: none;
+    background-color: rgb(41, 48, 48);
+    color: aliceblue;
+    padding:15px ;
+    border-radius: 10px;
+    box-shadow: ;
+}
+nav {
+    margin: 20px 30px;
+}
+h1{
+    text-align: center;
+}
+header,footer{
+    background-color:#1fa56d;
+    padding: 20px;
+}
+
+
