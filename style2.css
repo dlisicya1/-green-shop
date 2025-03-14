@@ -34,6 +34,8 @@ nav {
     margin: 20px 30px;
 }
 h1{
+
+    
     text-align: center;
 }
 header,footer{
@@ -41,4 +43,6 @@ header,footer{
     padding: 20px;
 }
 
-
+a:hover{
+border-bottom: 2px solid black;
+}
