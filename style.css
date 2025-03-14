@@ -40,3 +40,7 @@ header,footer{
     background-color:#1fa56d;
     padding: 20px;
 }
+a:hover{
+border-bottom: 2px solid black;
+}
+
